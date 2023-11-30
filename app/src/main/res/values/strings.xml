@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tetris</string>
+    <string name="cell">cell</string>
+    <string name="game_button_left">Left</string>
+    <string name="game_button_right">Right</string>
+    <string name="gme_button_start">Start Round</string>
+</resources>
